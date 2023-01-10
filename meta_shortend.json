@@ -1,0 +1,55 @@
+{
+    "era":{
+        "start_date": {
+            "year": "1957",
+            "month": "01",
+            "day": "01"
+        },
+        "end_date": {
+            "year": "1990",
+            "month": "01",
+            "day": "01"
+        },
+        "text": {
+            "headline": "era-text",
+            "text": "test of era"
+          } 
+    },
+    "events":[
+        {
+            "media": {
+                "url": "https://farm8.staticflickr.com/7563/16058756969_81a301a976.jpg",
+                "caption": "1957",
+                "credit": "Gertrud K."
+            },
+            "start_date": {
+                "year": "1957",
+                "month": "01",
+                "day": "01",
+                "hour": "00",
+                "minute": "00",
+                "second": "00"
+              },
+            "text": {
+                "headline": "1957",
+                "text": "Date granularity: 6"
+              }
+        },
+        {
+            "media": {
+                "url": "https://farm9.staticflickr.com/8189/8418118218_8cea50d90c.jpg",
+                "caption": "Ubahebe Crater",
+                "credit": "h willome"
+            },
+            "start_date": {
+                "year": "1990",
+                "month": "01",
+                "day": "02"
+              },
+              "text": {
+                "headline": "Ubahebe Crater",
+                "text": "Date granularity: 6"
+              }
+        }
+    ]
+}
